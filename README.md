@@ -19,8 +19,8 @@
           </a>
         </p>
         <p align="center">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Nirmal-code&theme=dark&hide=stars"/>
           <a href="https://github.com/Nirmal-code/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nirmal-code&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmal-code&theme=gruvbox&hide_border=true" />
           </a>
        </p>
