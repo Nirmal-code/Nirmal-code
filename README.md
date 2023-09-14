@@ -7,7 +7,7 @@
       <br/>
             <p align="center">
         <a href="https://github.com/Nirmal-code/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal-code&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathurshan03&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="Nirmal-code :: overall Top Langs " /></a>
       </p>
         <p align="center">
