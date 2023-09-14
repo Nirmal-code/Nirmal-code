@@ -14,7 +14,7 @@
           <a href="https://github.com/Nirmal-code/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nirmal-code&theme=gruvbox&layout=compact&hide_border=true"
           alt="Nirmal-code :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NoelCGregory&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nirmal-code&theme=gruvbox&layout=compact&hide_border=true"
           alt="Nirmal-code :: Top Langs by commit" />
           </a>
         </p>
