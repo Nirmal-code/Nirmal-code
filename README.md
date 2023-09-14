@@ -7,7 +7,7 @@
       <br/>
             <p align="center">
         <a href="https://github.com/Nirmal-code/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelCGregory&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal-code&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="Nirmal-code :: overall Top Langs " /></a>
       </p>
         <p align="center">
@@ -20,7 +20,7 @@
         </p>
         <p align="center">
           <a href="https://github.com/Nirmal-code/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Sathurshan03&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nirmal-code&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmal-code&theme=gruvbox&hide_border=true" />
           </a>
        </p>
